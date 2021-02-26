@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+/* background-image: url(./BooksStream/client/src/img/Season1.png); */
+
+
+body{
+  /* background-image: url(./img/Season2.png); */
+  background-size: cover;
+ 
+  /* background-color:#ebe7e4; */
+  background: linear-gradient(to right,#F4DAB5, #F0E9E6, #FFFFFF);
+  color: #fff;  /* opacity: 0.5; */
+  /* background-repeat: repeat; */
+  /* box-shadow: rgba(250, 244, 244, 0.5); */
+  /* inset 0 0 0 1000px */
+}
+.d-block{
+    margin-top: -2.5%;    
+     background-size: cover;
+      width: auto ;
+      height: 89vh;
+  }
+h1{
+  color: black;
+}
+ 
+  .btn1 {
+    height: 30px;
+    width:90px;
+    font-size: 14px;
+    text-align: center;
+    padding: 3px;
+     margin-left: 33px ; 
+
+
+}
+
+.btn3{
+  
+  height: 30px;
+  width:90px;
+  font-size: 14px;
+  text-align: center;
+  padding: 3px;
+    margin-left:200% ;
+
+}
+.btn4{
+  height: 30px;
+  width:90px;
+  font-size: 14px;
+  text-align: center;
+  padding: 3px;
+   margin-left: 180px ; }
+/* .btn2 {
+  height:'30px';
+   width:'60px';
+} */
+
+  h6{
+text-align: center;
+ white-space: nowrap; 
+ width: 90px;
+ overflow: hidden;  
+  text-overflow: ellipsis;  
+ 
+  }
+
+  h5{
+font-size: 10px;
+
+  }
+
+  /* .cardH.btn1{
+    text-align: center;
+  } */
+    
+  .cardH{
+    margin-left: 20% ;
+    margin-right: 20% ;
+    margin-top: 9% ;
+    margin-bottom: 20% ;
+    width: 11.1rem;
+    height:25em;
+    color: black;
+   }
+
+   .padding{
+ padding-right: 100px; 
+padding-bottom: 100px;
+padding-top:100px; 
+  } 
+
+  .cardImg{
+
+    width: 11rem;
+     height:13rem;
+  }
+
+  .magenShow{
+    border:  solid gray;
+    border-width: 2px;
+width: 1500px;
+height: 700px;
+margin-right:500px ;
+margin-top:100px ;
+/* padding: px; */
+word-wrap: break-word;
+overflow: hidden;
+border-radius: 10px;
+   /* box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+     0 10px 10px rgba(0,0,0,0.22); */
+  } 
+  .imgShow{
+   margin: 30px;
+        border-radius: 5px;
+    border:  solid rgb(10, 0, 0);
+    width:200px;
+     height:250px;
+  }
+
+  .info{
+    margin-right: 20px ;
+    margin-top:20px ;
+    margin-bottom:20px;
+
+  }
+ 
+
+      .infoSowh{
+        box-sizing: border-box;        
+    width: 40px;
+    height: 8px; 
+    color: black;
+
+  }   
+   
+  .proImg{
+margin-left:40px ;
+margin-top:100px ;
+margin-bottom:50px ;
+
+
+  }   
+
+  .proInfo{
+margin-top: 100px;
+
+  }
+
+  /* p {
+    line-height: 15px;
+     max-height: 100px; 
+  } */
+  
+  .nav2{
+color: #eea788;
+
+  }
+ 
+  /* .form-container {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    transition: all 0.6s ease-in-out;
+  }
+  
+  .sign-in-container {
+    left: 0;
+    width: 50%;
+    z-index: 2;
+  }
+   */
+
+   .container {
+     margin-top: 100px;
+    background-color: #fff;
+    border-radius: 10px;
+      box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+        0 10px 10px rgba(0,0,0,0.22);
+    position: relative;
+    overflow: hidden;
+    width: 500px;
+    max-width: 100%;
+    min-height: 480px;
+    
+  }
+
+  .container1 {
+     margin-top: 10px; 
+   background-color: #fff;
+   border-radius: 10px;
+     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+       0 10px 10px rgba(0,0,0,0.22);
+   /* position: relative; */
+   overflow: hidden;
+   width: 500px;
+    max-width: 100%; 
+   height: 650px;
+   
+ }
+ .container3 {
+   margin-left: 300px; 
+ background-color: #fff;
+ border-radius: 10px;
+   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+     0 10px 10px rgba(0,0,0,0.22);
+ position: relative;
+ overflow: hidden;
+ width: 700px;
+ height: 650px;
+ 
+}
