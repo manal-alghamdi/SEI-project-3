@@ -1,1 +1,0 @@
-# SEI-project-3
